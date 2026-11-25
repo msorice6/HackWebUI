@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fce29cf792c953840b1930b14a46bcfd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/Prefabs/WindowMemoBlack.prefab
+  uploadId: 86155

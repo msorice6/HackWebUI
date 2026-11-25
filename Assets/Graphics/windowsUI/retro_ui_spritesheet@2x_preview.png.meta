@@ -1,0 +1,6840 @@
+fileFormatVersion: 2
+guid: 6d62cee625dc76fbebf4e2ba977193bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4621857413097621671
+    second: retro_ui_spritesheet@2x_preview_0
+  - first:
+      213: -942079373810382573
+    second: retro_ui_spritesheet@2x_preview_1
+  - first:
+      213: -7150497663923042326
+    second: retro_ui_spritesheet@2x_preview_2
+  - first:
+      213: -9012598626300818135
+    second: retro_ui_spritesheet@2x_preview_3
+  - first:
+      213: -6089534488115949732
+    second: retro_ui_spritesheet@2x_preview_4
+  - first:
+      213: 5158403607010187743
+    second: retro_ui_spritesheet@2x_preview_5
+  - first:
+      213: -4060308218987093670
+    second: retro_ui_spritesheet@2x_preview_6
+  - first:
+      213: -5949164267269009723
+    second: retro_ui_spritesheet@2x_preview_7
+  - first:
+      213: 8185335186010853439
+    second: retro_ui_spritesheet@2x_preview_8
+  - first:
+      213: -423978425001147028
+    second: retro_ui_spritesheet@2x_preview_9
+  - first:
+      213: 4936078431027076074
+    second: retro_ui_spritesheet@2x_preview_10
+  - first:
+      213: 5922767218997828209
+    second: retro_ui_spritesheet@2x_preview_11
+  - first:
+      213: -4569136166360515393
+    second: retro_ui_spritesheet@2x_preview_12
+  - first:
+      213: -5973217571467440317
+    second: retro_ui_spritesheet@2x_preview_13
+  - first:
+      213: -6684426331726534223
+    second: retro_ui_spritesheet@2x_preview_14
+  - first:
+      213: -5299168112121582192
+    second: retro_ui_spritesheet@2x_preview_15
+  - first:
+      213: 3186810186472588112
+    second: retro_ui_spritesheet@2x_preview_16
+  - first:
+      213: 4765577640554420293
+    second: retro_ui_spritesheet@2x_preview_17
+  - first:
+      213: -3781035669143233021
+    second: retro_ui_spritesheet@2x_preview_18
+  - first:
+      213: 2587584978722046742
+    second: retro_ui_spritesheet@2x_preview_19
+  - first:
+      213: 3680628829554926169
+    second: retro_ui_spritesheet@2x_preview_20
+  - first:
+      213: -2805816029221033119
+    second: retro_ui_spritesheet@2x_preview_21
+  - first:
+      213: -3881325772879254346
+    second: retro_ui_spritesheet@2x_preview_22
+  - first:
+      213: -8964473155518191790
+    second: retro_ui_spritesheet@2x_preview_23
+  - first:
+      213: -3175725705100380407
+    second: retro_ui_spritesheet@2x_preview_24
+  - first:
+      213: -3416662568602704735
+    second: retro_ui_spritesheet@2x_preview_25
+  - first:
+      213: 4476672670242399141
+    second: retro_ui_spritesheet@2x_preview_26
+  - first:
+      213: 384834992246439129
+    second: retro_ui_spritesheet@2x_preview_27
+  - first:
+      213: -5133366945061503495
+    second: retro_ui_spritesheet@2x_preview_28
+  - first:
+      213: 9156987897456402943
+    second: retro_ui_spritesheet@2x_preview_29
+  - first:
+      213: -4339217807752403222
+    second: retro_ui_spritesheet@2x_preview_30
+  - first:
+      213: 1124331645687601651
+    second: retro_ui_spritesheet@2x_preview_31
+  - first:
+      213: -8077316201558016695
+    second: retro_ui_spritesheet@2x_preview_32
+  - first:
+      213: 6589591448564313991
+    second: retro_ui_spritesheet@2x_preview_33
+  - first:
+      213: 4905550553996465720
+    second: retro_ui_spritesheet@2x_preview_34
+  - first:
+      213: -3183741328817401481
+    second: retro_ui_spritesheet@2x_preview_35
+  - first:
+      213: -564155179468951844
+    second: retro_ui_spritesheet@2x_preview_36
+  - first:
+      213: 5818418029842090348
+    second: retro_ui_spritesheet@2x_preview_37
+  - first:
+      213: -8518422375433844030
+    second: retro_ui_spritesheet@2x_preview_38
+  - first:
+      213: 7357283802675549785
+    second: retro_ui_spritesheet@2x_preview_39
+  - first:
+      213: 8562569659716459376
+    second: retro_ui_spritesheet@2x_preview_40
+  - first:
+      213: -6419039053840137724
+    second: retro_ui_spritesheet@2x_preview_41
+  - first:
+      213: -6948103610322418475
+    second: retro_ui_spritesheet@2x_preview_42
+  - first:
+      213: 183098541725549108
+    second: retro_ui_spritesheet@2x_preview_43
+  - first:
+      213: -8503966812106701788
+    second: retro_ui_spritesheet@2x_preview_44
+  - first:
+      213: -4462638172110933920
+    second: retro_ui_spritesheet@2x_preview_45
+  - first:
+      213: -4368171222021412712
+    second: retro_ui_spritesheet@2x_preview_46
+  - first:
+      213: -8739335887932323954
+    second: retro_ui_spritesheet@2x_preview_47
+  - first:
+      213: 9159279540320989565
+    second: retro_ui_spritesheet@2x_preview_48
+  - first:
+      213: -6244775493873413708
+    second: retro_ui_spritesheet@2x_preview_49
+  - first:
+      213: -8691008271069843108
+    second: retro_ui_spritesheet@2x_preview_50
+  - first:
+      213: 1001052088174043666
+    second: retro_ui_spritesheet@2x_preview_51
+  - first:
+      213: 366851457445833230
+    second: retro_ui_spritesheet@2x_preview_52
+  - first:
+      213: 1841904103450112813
+    second: retro_ui_spritesheet@2x_preview_53
+  - first:
+      213: -7342967074878016094
+    second: retro_ui_spritesheet@2x_preview_54
+  - first:
+      213: -2690280004423009827
+    second: retro_ui_spritesheet@2x_preview_55
+  - first:
+      213: -5291403411771349070
+    second: retro_ui_spritesheet@2x_preview_56
+  - first:
+      213: 6936243144227567918
+    second: retro_ui_spritesheet@2x_preview_57
+  - first:
+      213: 8245742576162599561
+    second: retro_ui_spritesheet@2x_preview_58
+  - first:
+      213: 2318684097360487932
+    second: retro_ui_spritesheet@2x_preview_59
+  - first:
+      213: 6817749396001723847
+    second: retro_ui_spritesheet@2x_preview_60
+  - first:
+      213: -8589224322906895577
+    second: retro_ui_spritesheet@2x_preview_61
+  - first:
+      213: 5951391320049072100
+    second: retro_ui_spritesheet@2x_preview_62
+  - first:
+      213: -4612872033169162225
+    second: retro_ui_spritesheet@2x_preview_63
+  - first:
+      213: 5331164964832591530
+    second: retro_ui_spritesheet@2x_preview_64
+  - first:
+      213: 6242339871944758043
+    second: retro_ui_spritesheet@2x_preview_65
+  - first:
+      213: -3620303636259190223
+    second: retro_ui_spritesheet@2x_preview_66
+  - first:
+      213: 5485032596278079179
+    second: retro_ui_spritesheet@2x_preview_67
+  - first:
+      213: 79329169962689968
+    second: retro_ui_spritesheet@2x_preview_68
+  - first:
+      213: 4719240522219218512
+    second: retro_ui_spritesheet@2x_preview_69
+  - first:
+      213: 7763419046203526582
+    second: retro_ui_spritesheet@2x_preview_70
+  - first:
+      213: 117062742771382481
+    second: retro_ui_spritesheet@2x_preview_71
+  - first:
+      213: 6871068392090947576
+    second: retro_ui_spritesheet@2x_preview_72
+  - first:
+      213: -2653593437172740608
+    second: retro_ui_spritesheet@2x_preview_73
+  - first:
+      213: 4439824484764461482
+    second: retro_ui_spritesheet@2x_preview_74
+  - first:
+      213: -8358365671726096552
+    second: retro_ui_spritesheet@2x_preview_75
+  - first:
+      213: 1359168335294097219
+    second: retro_ui_spritesheet@2x_preview_76
+  - first:
+      213: -7257583930574767233
+    second: retro_ui_spritesheet@2x_preview_77
+  - first:
+      213: 8832294219507359136
+    second: retro_ui_spritesheet@2x_preview_78
+  - first:
+      213: 8987338937842068630
+    second: retro_ui_spritesheet@2x_preview_79
+  - first:
+      213: -606822566990548684
+    second: retro_ui_spritesheet@2x_preview_80
+  - first:
+      213: 1522413297593079864
+    second: retro_ui_spritesheet@2x_preview_81
+  - first:
+      213: 1502684947472043127
+    second: retro_ui_spritesheet@2x_preview_82
+  - first:
+      213: -9213320334270969324
+    second: retro_ui_spritesheet@2x_preview_83
+  - first:
+      213: -8090626380075232074
+    second: retro_ui_spritesheet@2x_preview_84
+  - first:
+      213: -5062051232080076101
+    second: retro_ui_spritesheet@2x_preview_85
+  - first:
+      213: 2100427452549038728
+    second: retro_ui_spritesheet@2x_preview_86
+  - first:
+      213: -1191699842714633021
+    second: retro_ui_spritesheet@2x_preview_87
+  - first:
+      213: 8117165489398801620
+    second: retro_ui_spritesheet@2x_preview_88
+  - first:
+      213: 2674552343611477498
+    second: retro_ui_spritesheet@2x_preview_89
+  - first:
+      213: -3884465958816079701
+    second: retro_ui_spritesheet@2x_preview_90
+  - first:
+      213: 3495589488477490673
+    second: retro_ui_spritesheet@2x_preview_91
+  - first:
+      213: -2024943625958705421
+    second: retro_ui_spritesheet@2x_preview_92
+  - first:
+      213: -3868108872110225992
+    second: retro_ui_spritesheet@2x_preview_93
+  - first:
+      213: 4795843583312444782
+    second: retro_ui_spritesheet@2x_preview_94
+  - first:
+      213: 5952838360565628436
+    second: retro_ui_spritesheet@2x_preview_95
+  - first:
+      213: 1625567394441600610
+    second: retro_ui_spritesheet@2x_preview_96
+  - first:
+      213: 8131619234456766757
+    second: retro_ui_spritesheet@2x_preview_97
+  - first:
+      213: -4869556231326384750
+    second: retro_ui_spritesheet@2x_preview_98
+  - first:
+      213: 6866207529051774112
+    second: retro_ui_spritesheet@2x_preview_99
+  - first:
+      213: -7413057445419371032
+    second: retro_ui_spritesheet@2x_preview_100
+  - first:
+      213: 7563301728148467342
+    second: retro_ui_spritesheet@2x_preview_101
+  - first:
+      213: 2008189540420312453
+    second: retro_ui_spritesheet@2x_preview_102
+  - first:
+      213: 3400336864253715834
+    second: retro_ui_spritesheet@2x_preview_103
+  - first:
+      213: 5693371470820555812
+    second: retro_ui_spritesheet@2x_preview_104
+  - first:
+      213: 716841166664481476
+    second: retro_ui_spritesheet@2x_preview_105
+  - first:
+      213: 5257668320415956407
+    second: retro_ui_spritesheet@2x_preview_106
+  - first:
+      213: -254176950862835136
+    second: retro_ui_spritesheet@2x_preview_107
+  - first:
+      213: -3790104186122844486
+    second: retro_ui_spritesheet@2x_preview_108
+  - first:
+      213: -4963721776266377175
+    second: retro_ui_spritesheet@2x_preview_109
+  - first:
+      213: -3618233433957483827
+    second: retro_ui_spritesheet@2x_preview_110
+  - first:
+      213: -5053366027362676967
+    second: retro_ui_spritesheet@2x_preview_111
+  - first:
+      213: 1496840607601743298
+    second: retro_ui_spritesheet@2x_preview_112
+  - first:
+      213: 7951880671746482270
+    second: retro_ui_spritesheet@2x_preview_113
+  - first:
+      213: 3081437069456501889
+    second: retro_ui_spritesheet@2x_preview_114
+  - first:
+      213: -4191874740307381658
+    second: retro_ui_spritesheet@2x_preview_115
+  - first:
+      213: 5156036067058903351
+    second: retro_ui_spritesheet@2x_preview_116
+  - first:
+      213: -2482506387466471982
+    second: retro_ui_spritesheet@2x_preview_117
+  - first:
+      213: 1921353204252682565
+    second: retro_ui_spritesheet@2x_preview_118
+  - first:
+      213: 2008761837310189019
+    second: retro_ui_spritesheet@2x_preview_119
+  - first:
+      213: 4460474718781659998
+    second: retro_ui_spritesheet@2x_preview_120
+  - first:
+      213: 2091721771012809242
+    second: retro_ui_spritesheet@2x_preview_121
+  - first:
+      213: -7356144191932781898
+    second: retro_ui_spritesheet@2x_preview_122
+  - first:
+      213: 3757358070970054388
+    second: retro_ui_spritesheet@2x_preview_123
+  - first:
+      213: 1529649597136129411
+    second: retro_ui_spritesheet@2x_preview_124
+  - first:
+      213: 8360134551681751745
+    second: retro_ui_spritesheet@2x_preview_125
+  - first:
+      213: 2394230353958393740
+    second: retro_ui_spritesheet@2x_preview_126
+  - first:
+      213: 9103444139424370263
+    second: retro_ui_spritesheet@2x_preview_127
+  - first:
+      213: 6014362737572993304
+    second: retro_ui_spritesheet@2x_preview_128
+  - first:
+      213: -6378967779263742721
+    second: retro_ui_spritesheet@2x_preview_129
+  - first:
+      213: 2952750900503396875
+    second: retro_ui_spritesheet@2x_preview_130
+  - first:
+      213: -3894577192718373225
+    second: retro_ui_spritesheet@2x_preview_131
+  - first:
+      213: 3195159923532035384
+    second: retro_ui_spritesheet@2x_preview_132
+  - first:
+      213: -8918395241672149088
+    second: retro_ui_spritesheet@2x_preview_133
+  - first:
+      213: 2012024130227744438
+    second: retro_ui_spritesheet@2x_preview_134
+  - first:
+      213: -7199180154203649707
+    second: retro_ui_spritesheet@2x_preview_135
+  - first:
+      213: 4631619294135342216
+    second: retro_ui_spritesheet@2x_preview_136
+  - first:
+      213: 6099706316151590186
+    second: retro_ui_spritesheet@2x_preview_137
+  - first:
+      213: 1469929450411976324
+    second: retro_ui_spritesheet@2x_preview_138
+  - first:
+      213: -3590490891506185181
+    second: retro_ui_spritesheet@2x_preview_139
+  - first:
+      213: 7766217715972019116
+    second: retro_ui_spritesheet@2x_preview_140
+  - first:
+      213: -9111634015633498709
+    second: retro_ui_spritesheet@2x_preview_141
+  - first:
+      213: -4496166935635152105
+    second: retro_ui_spritesheet@2x_preview_142
+  - first:
+      213: -5974347420496794968
+    second: retro_ui_spritesheet@2x_preview_143
+  - first:
+      213: 7951407422151258512
+    second: retro_ui_spritesheet@2x_preview_144
+  - first:
+      213: -7486451569118828303
+    second: retro_ui_spritesheet@2x_preview_145
+  - first:
+      213: 5533504071707199002
+    second: retro_ui_spritesheet@2x_preview_146
+  - first:
+      213: 8953310351775177702
+    second: retro_ui_spritesheet@2x_preview_147
+  - first:
+      213: -8317380701582749231
+    second: retro_ui_spritesheet@2x_preview_148
+  - first:
+      213: 4612325999184894866
+    second: retro_ui_spritesheet@2x_preview_149
+  - first:
+      213: -1970411321624882765
+    second: retro_ui_spritesheet@2x_preview_150
+  - first:
+      213: -6641953571596145447
+    second: retro_ui_spritesheet@2x_preview_151
+  - first:
+      213: -8577982262305125454
+    second: retro_ui_spritesheet@2x_preview_152
+  - first:
+      213: -8707366550079295307
+    second: retro_ui_spritesheet@2x_preview_153
+  - first:
+      213: 1567017724756903012
+    second: retro_ui_spritesheet@2x_preview_154
+  - first:
+      213: 7120505753911710402
+    second: retro_ui_spritesheet@2x_preview_155
+  - first:
+      213: -937387518936564979
+    second: retro_ui_spritesheet@2x_preview_156
+  - first:
+      213: 354718573739731772
+    second: retro_ui_spritesheet@2x_preview_157
+  - first:
+      213: 8283605874947799949
+    second: retro_ui_spritesheet@2x_preview_158
+  - first:
+      213: 9141058255049685212
+    second: retro_ui_spritesheet@2x_preview_159
+  - first:
+      213: -5940272500449843136
+    second: retro_ui_spritesheet@2x_preview_160
+  - first:
+      213: -1579290312864964318
+    second: retro_ui_spritesheet@2x_preview_161
+  - first:
+      213: 58895920534792505
+    second: retro_ui_spritesheet@2x_preview_162
+  - first:
+      213: 8234357359473600074
+    second: retro_ui_spritesheet@2x_preview_163
+  - first:
+      213: 574934336034023001
+    second: retro_ui_spritesheet@2x_preview_164
+  - first:
+      213: 6313341091716038304
+    second: retro_ui_spritesheet@2x_preview_165
+  - first:
+      213: 1234432604716983165
+    second: retro_ui_spritesheet@2x_preview_166
+  - first:
+      213: -8317609904625919744
+    second: retro_ui_spritesheet@2x_preview_167
+  - first:
+      213: 8830690722197244884
+    second: retro_ui_spritesheet@2x_preview_168
+  - first:
+      213: -3547009377832437446
+    second: retro_ui_spritesheet@2x_preview_169
+  - first:
+      213: -1300697178667076795
+    second: retro_ui_spritesheet@2x_preview_170
+  - first:
+      213: 3150015812463838351
+    second: retro_ui_spritesheet@2x_preview_171
+  - first:
+      213: -3165954324462169761
+    second: retro_ui_spritesheet@2x_preview_172
+  - first:
+      213: 1337709035675535544
+    second: retro_ui_spritesheet@2x_preview_173
+  - first:
+      213: -397856643948781492
+    second: retro_ui_spritesheet@2x_preview_174
+  - first:
+      213: 8364284958763909400
+    second: retro_ui_spritesheet@2x_preview_175
+  - first:
+      213: -6380244483051918048
+    second: retro_ui_spritesheet@2x_preview_176
+  - first:
+      213: 6946394785705813248
+    second: retro_ui_spritesheet@2x_preview_177
+  - first:
+      213: -5620024301506935678
+    second: retro_ui_spritesheet@2x_preview_178
+  - first:
+      213: -1395111638447872988
+    second: retro_ui_spritesheet@2x_preview_179
+  - first:
+      213: -2742568305569984032
+    second: retro_ui_spritesheet@2x_preview_180
+  - first:
+      213: 8384029783653306885
+    second: retro_ui_spritesheet@2x_preview_181
+  - first:
+      213: -396799014512926265
+    second: retro_ui_spritesheet@2x_preview_182
+  - first:
+      213: -5294932070496975215
+    second: retro_ui_spritesheet@2x_preview_183
+  - first:
+      213: -292667317275360496
+    second: retro_ui_spritesheet@2x_preview_184
+  - first:
+      213: -3162783731454179345
+    second: retro_ui_spritesheet@2x_preview_185
+  - first:
+      213: 7608362994129227363
+    second: retro_ui_spritesheet@2x_preview_186
+  - first:
+      213: -5765576474969907348
+    second: retro_ui_spritesheet@2x_preview_187
+  - first:
+      213: 6049167832720402274
+    second: retro_ui_spritesheet@2x_preview_188
+  - first:
+      213: 3228357674610415760
+    second: retro_ui_spritesheet@2x_preview_189
+  - first:
+      213: -8628751724048838345
+    second: retro_ui_spritesheet@2x_preview_190
+  - first:
+      213: 691133331912463845
+    second: retro_ui_spritesheet@2x_preview_191
+  - first:
+      213: -231475217430396688
+    second: retro_ui_spritesheet@2x_preview_192
+  - first:
+      213: -3624216331973669775
+    second: retro_ui_spritesheet@2x_preview_193
+  - first:
+      213: -8301822483527499919
+    second: retro_ui_spritesheet@2x_preview_194
+  - first:
+      213: 328941782333309575
+    second: retro_ui_spritesheet@2x_preview_195
+  - first:
+      213: -9188801331876611963
+    second: retro_ui_spritesheet@2x_preview_196
+  - first:
+      213: 7160548131045172412
+    second: retro_ui_spritesheet@2x_preview_197
+  - first:
+      213: -4825699873049328152
+    second: retro_ui_spritesheet@2x_preview_198
+  - first:
+      213: -4055322978726715133
+    second: retro_ui_spritesheet@2x_preview_199
+  - first:
+      213: 7381759540606028390
+    second: retro_ui_spritesheet@2x_preview_200
+  - first:
+      213: -3436639775604325216
+    second: retro_ui_spritesheet@2x_preview_201
+  - first:
+      213: 7231957624480746315
+    second: retro_ui_spritesheet@2x_preview_202
+  - first:
+      213: 9063368370465657824
+    second: retro_ui_spritesheet@2x_preview_203
+  - first:
+      213: 6749094713108751478
+    second: retro_ui_spritesheet@2x_preview_204
+  - first:
+      213: 5853596982208971890
+    second: retro_ui_spritesheet@2x_preview_205
+  - first:
+      213: 1988624052490398101
+    second: retro_ui_spritesheet@2x_preview_206
+  - first:
+      213: -1998172223352176325
+    second: retro_ui_spritesheet@2x_preview_207
+  - first:
+      213: 3090061985101739601
+    second: retro_ui_spritesheet@2x_preview_208
+  - first:
+      213: 2835410855644687648
+    second: retro_ui_spritesheet@2x_preview_209
+  - first:
+      213: 4783560936517791452
+    second: retro_ui_spritesheet@2x_preview_210
+  - first:
+      213: 4374802716674242646
+    second: retro_ui_spritesheet@2x_preview_211
+  - first:
+      213: -8681235352903937080
+    second: retro_ui_spritesheet@2x_preview_212
+  - first:
+      213: -7330408165914486528
+    second: retro_ui_spritesheet@2x_preview_213
+  - first:
+      213: -826994523389670447
+    second: retro_ui_spritesheet@2x_preview_214
+  - first:
+      213: -1198730813375867019
+    second: retro_ui_spritesheet@2x_preview_215
+  - first:
+      213: -8254656215094024731
+    second: retro_ui_spritesheet@2x_preview_216
+  - first:
+      213: -7193544699031502575
+    second: retro_ui_spritesheet@2x_preview_217
+  - first:
+      213: -5610216798192521627
+    second: retro_ui_spritesheet@2x_preview_218
+  - first:
+      213: -6463402554808305201
+    second: retro_ui_spritesheet@2x_preview_219
+  - first:
+      213: -6200166331738886199
+    second: retro_ui_spritesheet@2x_preview_220
+  - first:
+      213: 8641581788508608937
+    second: retro_ui_spritesheet@2x_preview_221
+  - first:
+      213: -4111757483326454773
+    second: retro_ui_spritesheet@2x_preview_222
+  - first:
+      213: 3089066531880053106
+    second: retro_ui_spritesheet@2x_preview_223
+  - first:
+      213: 515122286493996989
+    second: retro_ui_spritesheet@2x_preview_224
+  - first:
+      213: -2565472760653246239
+    second: retro_ui_spritesheet@2x_preview_225
+  - first:
+      213: 2622426234461205023
+    second: retro_ui_spritesheet@2x_preview_226
+  - first:
+      213: 7049626331480484223
+    second: retro_ui_spritesheet@2x_preview_227
+  - first:
+      213: 2556461746088100447
+    second: retro_ui_spritesheet@2x_preview_228
+  - first:
+      213: -930763303729894216
+    second: retro_ui_spritesheet@2x_preview_229
+  - first:
+      213: -5639087838459037239
+    second: retro_ui_spritesheet@2x_preview_230
+  - first:
+      213: -3768778391395849963
+    second: retro_ui_spritesheet@2x_preview_231
+  - first:
+      213: -7985111642332401607
+    second: retro_ui_spritesheet@2x_preview_232
+  - first:
+      213: 7376055528964654456
+    second: retro_ui_spritesheet@2x_preview_233
+  - first:
+      213: 495826722159903645
+    second: retro_ui_spritesheet@2x_preview_234
+  - first:
+      213: -5787537892850559258
+    second: retro_ui_spritesheet@2x_preview_235
+  - first:
+      213: 4260242710197162977
+    second: retro_ui_spritesheet@2x_preview_236
+  - first:
+      213: 5023069417764625262
+    second: retro_ui_spritesheet@2x_preview_237
+  - first:
+      213: 7373656131712527601
+    second: retro_ui_spritesheet@2x_preview_238
+  - first:
+      213: 2748299056379223980
+    second: retro_ui_spritesheet@2x_preview_239
+  - first:
+      213: 559210265335854304
+    second: retro_ui_spritesheet@2x_preview_240
+  - first:
+      213: 1632283501039514889
+    second: retro_ui_spritesheet@2x_preview_241
+  - first:
+      213: -7667956426957966557
+    second: retro_ui_spritesheet@2x_preview_242
+  - first:
+      213: 5389541606351175125
+    second: retro_ui_spritesheet@2x_preview_243
+  - first:
+      213: 1491651947841449037
+    second: retro_ui_spritesheet@2x_preview_244
+  - first:
+      213: -4506629548619313675
+    second: retro_ui_spritesheet@2x_preview_245
+  - first:
+      213: 8947340204552127480
+    second: retro_ui_spritesheet@2x_preview_246
+  - first:
+      213: -4903794153345597895
+    second: retro_ui_spritesheet@2x_preview_247
+  - first:
+      213: -3028828277870563921
+    second: retro_ui_spritesheet@2x_preview_248
+  - first:
+      213: 6453645253122097800
+    second: retro_ui_spritesheet@2x_preview_249
+  - first:
+      213: -1385738707890792816
+    second: retro_ui_spritesheet@2x_preview_250
+  - first:
+      213: 3428993254858124199
+    second: retro_ui_spritesheet@2x_preview_251
+  - first:
+      213: 7849512709684424565
+    second: retro_ui_spritesheet@2x_preview_252
+  - first:
+      213: 173769002554383790
+    second: retro_ui_spritesheet@2x_preview_253
+  - first:
+      213: -2190243315439681461
+    second: retro_ui_spritesheet@2x_preview_254
+  - first:
+      213: 279317694554532126
+    second: retro_ui_spritesheet@2x_preview_255
+  - first:
+      213: -5848608467253091641
+    second: retro_ui_spritesheet@2x_preview_256
+  - first:
+      213: 6587190297733912716
+    second: retro_ui_spritesheet@2x_preview_257
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1991
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8803e54d2242040800000000000000
+      internalID: 4621857413097621671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194fc50dcf0de2f0800000000000000
+      internalID: -942079373810382573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74b96724454cc90800000000000000
+      internalID: -7150497663923042326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d8a28dc41dce280800000000000000
+      internalID: -9012598626300818135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fcb5495a0ad7ba0800000000000000
+      internalID: -6089534488115949732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99feb00c4569740800000000000000
+      internalID: 5158403607010187743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51eca0ff23e6a7c0800000000000000
+      internalID: -4060308218987093670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cecbf27e92507da0800000000000000
+      internalID: -5949164267269009723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30dea1ebf6289170800000000000000
+      internalID: 8185335186010853439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6580696ed9bd1af0800000000000000
+      internalID: -423978425001147028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_10
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb16d83e29708440800000000000000
+      internalID: 4936078431027076074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a91bfc765e13250800000000000000
+      internalID: 5922767218997828209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf0b17dda2790c0800000000000000
+      internalID: -4569136166360515393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_13
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fcf86244eda1da0800000000000000
+      internalID: -5973217571467440317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_14
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1991
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b92c2abaa52c33a0800000000000000
+      internalID: -6684426331726534223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1915
+        width: 257
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6aef9da29576b0800000000000000
+      internalID: -5299168112121582192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1915
+        width: 258
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0538b4beaf2d93c20800000000000000
+      internalID: 3186810186472588112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1915
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5485ace6d9bb22240800000000000000
+      internalID: 4765577640554420293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1915
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ed2a97710178bc0800000000000000
+      internalID: -3781035669143233021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1923
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134dda14d2f8e320800000000000000
+      internalID: 2587584978722046742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_20
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1923
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952eeaf6b68341330800000000000000
+      internalID: 3680628829554926169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_21
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1923
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bee21ff2dbf09d0800000000000000
+      internalID: -2805816029221033119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1923
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bca6f116c2c22ac0800000000000000
+      internalID: -3881325772879254346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_23
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1955
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25720de292bc79380800000000000000
+      internalID: -8964473155518191790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_24
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1955
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9073a630c4e8de3d0800000000000000
+      internalID: -3175725705100380407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_25
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1923
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4ef010f739590d0800000000000000
+      internalID: -3416662568602704735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1847
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36f7d3316502e30800000000000000
+      internalID: 4476672670242399141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1847
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc3df1f265375500800000000000000
+      internalID: 384834992246439129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1847
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd70e116fd92c8b0800000000000000
+      internalID: -5133366945061503495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1847
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1a0781af7241f70800000000000000
+      internalID: 9156987897456402943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1847
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae66eddd46008c3c0800000000000000
+      internalID: -4339217807752403222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f990febcad6a9f00800000000000000
+      internalID: 1124331645687601651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d70abc5bb97ef80800000000000000
+      internalID: -8077316201558016695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1879
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa0a2628ee27b50800000000000000
+      internalID: 6589591448564313991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1819
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8361ea6fc34041440800000000000000
+      internalID: 4905550553996465720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_35
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1819
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771db1f212411d3d0800000000000000
+      internalID: -3183741328817401481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_36
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1819
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde6e817ad7bb28f0800000000000000
+      internalID: -564155179468951844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_37
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1819
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69477fee5c2fb050800000000000000
+      internalID: 5818418029842090348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_38
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1819
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac6896bfb78c980800000000000000
+      internalID: -8518422375433844030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1723
+        width: 301
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956163253a25a1660800000000000000
+      internalID: 7357283802675549785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1723
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bdfe33dbb54d670800000000000000
+      internalID: 8562569659716459376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_41
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1723
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402cf747dfdfae6a0800000000000000
+      internalID: -6419039053840137724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_42
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1723
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d48f1c3490639f90800000000000000
+      internalID: -6948103610322418475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_43
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1723
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4328172572f7a8200800000000000000
+      internalID: 183098541725549108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_44
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1723
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4244ba68d37dbf980800000000000000
+      internalID: -8503966812106701788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1667
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060ba3ef9368112c0800000000000000
+      internalID: -4462638172110933920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1667
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8986459ca632163c0800000000000000
+      internalID: -4368171222021412712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1667
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8788fa1054a7b680800000000000000
+      internalID: -8739335887932323954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1667
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71f557c63c4c1f70800000000000000
+      internalID: 9159279540320989565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b15c9946c91659a0800000000000000
+      internalID: -6244775493873413708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5176ee3606536780800000000000000
+      internalID: -8691008271069843108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_51
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e645029374ed00800000000000000
+      internalID: 1001052088174043666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_52
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa466f471571500800000000000000
+      internalID: 366851457445833230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237a74f502cf8910800000000000000
+      internalID: 1841904103450112813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_54
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b180a95a881a90800000000000000
+      internalID: -7342967074878016094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9b706f6943aaad0800000000000000
+      internalID: -2690280004423009827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_56
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7241ec1a82196b0800000000000000
+      internalID: -5291403411771349070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_57
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293c6fc36c724060800000000000000
+      internalID: 6936243144227567918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_58
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9827c796f23ce6270800000000000000
+      internalID: 8245742576162599561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_59
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e481d6ee9d2020800000000000000
+      internalID: 2318684097360487932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_60
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5115424f28d9e50800000000000000
+      internalID: 6817749396001723847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_61
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4df86cf1fcc880800000000000000
+      internalID: -8589224322906895577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_62
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e73edeafd6979250800000000000000
+      internalID: 5951391320049072100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_63
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004e9c6359cbffb0800000000000000
+      internalID: -4612872033169162225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_64
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1655
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebadf2a4a1cf940800000000000000
+      internalID: 5331164964832591530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1643
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13568a4a0f31a650800000000000000
+      internalID: 6242339871944758043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1643
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a47b5260912cdc0800000000000000
+      internalID: -3620303636259190223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_67
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1587
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee79ad510ce1c40800000000000000
+      internalID: 5485032596278079179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1587
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5e3f3b575d91100800000000000000
+      internalID: 79329169962689968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1603
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0566188504c1e7140800000000000000
+      internalID: 4719240522219218512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_70
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1587
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd867b7d743dbb60800000000000000
+      internalID: 7763419046203526582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_71
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1587
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8325fb1f3ef9100800000000000000
+      internalID: 117062742771382481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_72
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1567
+        width: 162
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffcef15c40fa5f50800000000000000
+      internalID: 6871068392090947576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1567
+        width: 162
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec20704da8c2bd0800000000000000
+      internalID: -2653593437172740608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_74
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1567
+        width: 162
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9a77f78dc6d9d30800000000000000
+      internalID: 4439824484764461482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_75
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1563
+        width: 194
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f52f1c4be110c80800000000000000
+      internalID: -8358365671726096552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_76
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1563
+        width: 162
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347e927566cbcd210800000000000000
+      internalID: 1359168335294097219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_77
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1563
+        width: 194
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bf1821ed1e74b90800000000000000
+      internalID: -7257583930574767233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0add8711ccc929a70800000000000000
+      internalID: 8832294219507359136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1511
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cec12a52179bc70800000000000000
+      internalID: 8987338937842068630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1511
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43176d427122497f0800000000000000
+      internalID: -606822566990548684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1511
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838dd5cf3d2b02510800000000000000
+      internalID: 1522413297593079864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1543
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc5678ffb9ad410800000000000000
+      internalID: 1502684947472043127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1479
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a45e168f5b32080800000000000000
+      internalID: -9213320334270969324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1479
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4163d5c2258bf80800000000000000
+      internalID: -8090626380075232074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1479
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e90d693bffb9b0800000000000000
+      internalID: -5062051232080076101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_86
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1495
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8820aa9b3a7362d10800000000000000
+      internalID: 2100427452549038728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1495
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccfa149e4b367fe0800000000000000
+      internalID: -1191699842714633021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_88
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4ecaa8107f5a070800000000000000
+      internalID: 8117165489398801620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_89
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1551
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8626af2bed1520800000000000000
+      internalID: 2674552343611477498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_90
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1531
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0abae8aca971ac0800000000000000
+      internalID: -3884465958816079701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_91
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1531
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd4a4d8e14d28030800000000000000
+      internalID: 3495589488477490673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_92
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1531
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63a843084f5e3e0800000000000000
+      internalID: -2024943625958705421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_93
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1531
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b545559977b15ac0800000000000000
+      internalID: -3868108872110225992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_94
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1535
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dbcad54524e8240800000000000000
+      internalID: 4795843583312444782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_95
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e35de03fabc9250800000000000000
+      internalID: 5952838360565628436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_96
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e1620ceec2f8610800000000000000
+      internalID: 1625567394441600610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_97
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529878e4c9059d070800000000000000
+      internalID: 8131619234456766757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_98
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d300a586cdb6cb0800000000000000
+      internalID: -4869556231326384750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_99
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac5e337e5ba94f50800000000000000
+      internalID: 6866207529051774112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_100
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1555
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5b63a87878f1990800000000000000
+      internalID: -7413057445419371032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_101
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1543
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e236389de36f860800000000000000
+      internalID: 7563301728148467342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_102
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1479
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d58664fb58edb10800000000000000
+      internalID: 2008189540420312453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_103
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75228ebc5c603f20800000000000000
+      internalID: 3400336864253715834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_104
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3a9c103be20f40800000000000000
+      internalID: 5693371470820555812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_105
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab96b3e3bb2f900800000000000000
+      internalID: 716841166664481476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_106
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb7392b7df6f840800000000000000
+      internalID: 5257668320415956407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_107
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1527
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0429abde86bf87cf0800000000000000
+      internalID: -254176950862835136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_108
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab64d64d258d66bc0800000000000000
+      internalID: -3790104186122844486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_109
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92885c9e7515d1bb0800000000000000
+      internalID: -4963721776266377175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_110
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1527
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab58eacd379cdc0800000000000000
+      internalID: -3618233433957483827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f450b3f56ded9b0800000000000000
+      internalID: -5053366027362676967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_112
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1439
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55b7d1a98d5c410800000000000000
+      internalID: 1496840607601743298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_113
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506ebf0751ca5e60800000000000000
+      internalID: 7951880671746482270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_114
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ceca240b673ca20800000000000000
+      internalID: 3081437069456501889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_115
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1363
+        width: 18
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662bb09122873d5c0800000000000000
+      internalID: -4191874740307381658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1387
+        width: 218
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e5223c7bed8740800000000000000
+      internalID: 5156036067058903351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_117
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1387
+        width: 218
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53c6ee79d5c8dd0800000000000000
+      internalID: -2482506387466471982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_118
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1411
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5492a8b3f840aaa10800000000000000
+      internalID: 1921353204252682565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_119
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1411
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1c378f3e80eb10800000000000000
+      internalID: 2008761837310189019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_120
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1443
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b5796cf1ac6ed30800000000000000
+      internalID: 4460474718781659998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_121
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1395
+        width: 14
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a126b2a4ed9470d10800000000000000
+      internalID: 2091721771012809242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_122
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1395
+        width: 10
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba2b4bf4d9b9e990800000000000000
+      internalID: -7356144191932781898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_123
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1295
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6fd1a1241d42430800000000000000
+      internalID: 3757358070970054388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_124
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1295
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d4e1444386a3510800000000000000
+      internalID: 1529649597136129411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_125
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1295
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad573b41a250470800000000000000
+      internalID: 8360134551681751745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_126
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1295
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d52e52d30a3120800000000000000
+      internalID: 2394230353958393740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_127
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1303
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e4003763ee55e70800000000000000
+      internalID: 9103444139424370263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_128
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1303
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819526b5b0f477350800000000000000
+      internalID: 6014362737572993304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_129
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1299
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc725b1a9a5977a0800000000000000
+      internalID: -6378967779263742721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_130
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1295
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0248b6bc474af820800000000000000
+      internalID: 2952750900503396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_131
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1303
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eeea57daea3f9c0800000000000000
+      internalID: -3894577192718373225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_132
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1299
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f0b2950d775c20800000000000000
+      internalID: 3195159923532035384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_133
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1303
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f89587ce7b3480800000000000000
+      internalID: -8918395241672149088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_134
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1299
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be2db949452ceb10800000000000000
+      internalID: 2012024130227744438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_135
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1331
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55946aaeacf571c90800000000000000
+      internalID: -7199180154203649707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_136
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1299
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88458c96531d64040800000000000000
+      internalID: 4631619294135342216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_137
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1295
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d0c60b39286a450800000000000000
+      internalID: 6099706316151590186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_138
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1303
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e0b01c0d366410800000000000000
+      internalID: 1469929450411976324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_139
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1299
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8f72be830c2ec0800000000000000
+      internalID: -3590490891506185181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_140
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1307
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca39bd09dd527cb60800000000000000
+      internalID: 7766217715972019116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_141
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1295
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad9cc66329fc8180800000000000000
+      internalID: -9111634015633498709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_142
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1295
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133c966ef76a91c0800000000000000
+      internalID: -4496166935635152105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_143
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1307
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa648cacaad61da0800000000000000
+      internalID: -5974347420496794968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_144
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1303
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091fabd0ce2195e60800000000000000
+      internalID: 7951407422151258512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_145
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1299
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a18a76f7ca1890800000000000000
+      internalID: -7486451569118828303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_146
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1299
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16094da2a4facc40800000000000000
+      internalID: 5533504071707199002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_147
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1299
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb1369045c804c70800000000000000
+      internalID: 8953310351775177702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_148
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1315
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1987cb15ab29c80800000000000000
+      internalID: -8317380701582749231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_149
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1303
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bd6b12f06420040800000000000000
+      internalID: 4612325999184894866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_150
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1311
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11429b751b7a4e0800000000000000
+      internalID: -1970411321624882765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_151
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1299
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcef5eca6a03d3a0800000000000000
+      internalID: -6641953571596145447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_152
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1295
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb83bd9492e4f880800000000000000
+      internalID: -8577982262305125454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_153
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1303
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0b76d9148392780800000000000000
+      internalID: -8707366550079295307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_154
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1295
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46440e8715a2fb510800000000000000
+      internalID: 1567017724756903012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_155
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1217
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25803d14e11d260800000000000000
+      internalID: 7120505753911710402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_156
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1199
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb6ec940bbdf2f0800000000000000
+      internalID: -937387518936564979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_157
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1195
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b6df6d9a63ce400800000000000000
+      internalID: 354718573739731772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_158
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1197
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3a93a7a745f270800000000000000
+      internalID: 8283605874947799949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_159
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1197
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd873633d009bde70800000000000000
+      internalID: 9141058255049685212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_160
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1201
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0486aad32a9ef8da0800000000000000
+      internalID: -5940272500449843136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_161
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1195
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e770f3db351ae0800000000000000
+      internalID: -1579290312864964318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_162
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1199
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392236178d31d000800000000000000
+      internalID: 58895920534792505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_163
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1221
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a462c051460564270800000000000000
+      internalID: 8234357359473600074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_164
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1197
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ab748bb39af700800000000000000
+      internalID: 574934336034023001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_165
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1197
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae7c9df54e7d9750800000000000000
+      internalID: 6313341091716038304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_166
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1197
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73e057e9e5912110800000000000000
+      internalID: 1234432604716983165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_167
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1203
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009508e3cd9e19c80800000000000000
+      internalID: -8317609904625919744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_168
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1199
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db87e1cc6aec8a70800000000000000
+      internalID: 8830690722197244884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_169
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1197
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39715383cd76cec0800000000000000
+      internalID: -3547009377832437446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_170
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1201
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433231becef2fde0800000000000000
+      internalID: -1300697178667076795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_171
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1199
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8445c221ba17bb20800000000000000
+      internalID: 3150015812463838351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_172
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1199
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51125bd0554014d0800000000000000
+      internalID: -3165954324462169761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_173
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1199
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8454cc74f709210800000000000000
+      internalID: 1337709035675535544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_174
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1195
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4067e18d778a7af0800000000000000
+      internalID: -397856643948781492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1199
+        width: 96
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110447aad8e31470800000000000000
+      internalID: 8364284958763909400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_176
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1097
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d6b875271d477a0800000000000000
+      internalID: -6380244483051918048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_177
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1099
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005ee97014d866060800000000000000
+      internalID: 6946394785705813248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_178
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1109
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284cd978ca9a102b0800000000000000
+      internalID: -5620024301506935678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_179
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1105
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4242d404b5193ace0800000000000000
+      internalID: -1395111638447872988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_180
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1105
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1914628a070f9d0800000000000000
+      internalID: -2742568305569984032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_181
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1105
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50253f0faae0a5470800000000000000
+      internalID: 8384029783653306885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_182
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1105
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c16bbc06694e7af0800000000000000
+      internalID: -396799014512926265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_183
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1095
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196443ce55f9486b0800000000000000
+      internalID: -5294932070496975215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_184
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1105
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0138f6420ac30fbf0800000000000000
+      internalID: -292667317275360496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_185
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1105
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe70a4114f88b14d0800000000000000
+      internalID: -3162783731454179345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_186
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1105
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ecc4315d5569960800000000000000
+      internalID: 7608362994129227363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_187
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1109
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fd11c4ebe8cffa0800000000000000
+      internalID: -5765576474969907348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_188
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1095
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267e4001816f2f350800000000000000
+      internalID: 6049167832720402274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_189
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1105
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0985f03533e6dcc20800000000000000
+      internalID: 3228357674610415760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_190
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1099
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73197092604804880800000000000000
+      internalID: -8628751724048838345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_191
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1099
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e513158a16679900800000000000000
+      internalID: 691133331912463845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_192
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1151
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f041c22482a9ccf0800000000000000
+      internalID: -231475217430396688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_193
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1099
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c4a8fa27234bdc0800000000000000
+      internalID: -3624216331973669775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_194
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1101
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffdf8af600acc80800000000000000
+      internalID: -8301822483527499919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_195
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1101
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c2c7eec2a09400800000000000000
+      internalID: 328941782333309575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_196
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1095
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588bbdd7fd1da7080800000000000000
+      internalID: -9188801331876611963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_197
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1001
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4e80446906f5360800000000000000
+      internalID: 7160548131045172412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_198
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 997
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e54f3a788ba70db0800000000000000
+      internalID: -4825699873049328152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_199
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 997
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e383ac3998b7c0800000000000000
+      internalID: -4055322978726715133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_200
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1003
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4c232137417660800000000000000
+      internalID: 7381759540606028390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_201
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 997
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4402a055a9e40d0800000000000000
+      internalID: -3436639775604325216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_202
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 997
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b4ad594231d5460800000000000000
+      internalID: 7231957624480746315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_203
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1003
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3dd1e538d87cd70800000000000000
+      internalID: 9063368370465657824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_204
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1029
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674605222e999ad50800000000000000
+      internalID: 6749094713108751478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_205
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1019
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744dde01772c3150800000000000000
+      internalID: 5853596982208971890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_206
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1011
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ec702a03099b10800000000000000
+      internalID: 1988624052490398101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_207
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1005
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318a0b13f01544e0800000000000000
+      internalID: -1998172223352176325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_208
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 995
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1567debe00b12ea20800000000000000
+      internalID: 3090061985101739601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_209
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02decfa8627695720800000000000000
+      internalID: 2835410855644687648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_210
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdee39ec35f926240800000000000000
+      internalID: 4783560936517791452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_211
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65838c164eb66bc30800000000000000
+      internalID: 4374802716674242646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_212
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c31992117e068780800000000000000
+      internalID: -8681235352903937080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_213
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095b0c7c98254a90800000000000000
+      internalID: -7330408165914486528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_214
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4a22dcdce584f0800000000000000
+      internalID: -826994523389670447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_215
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779a672da04d5fe0800000000000000
+      internalID: -1198730813375867019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_216
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 903
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5a95c48e1917d80800000000000000
+      internalID: -8254656215094024731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111455295356b2c90800000000000000
+      internalID: -7193544699031502575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_218
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 823
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2ec6db818422b0800000000000000
+      internalID: -5610216798192521627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_219
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 831
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc97c48fe916d46a0800000000000000
+      internalID: -6463402554808305201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_220
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 843
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfed58329594f9a0800000000000000
+      internalID: -6200166331738886199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_221
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 839
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a95a810ad01de770800000000000000
+      internalID: 8641581788508608937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_222
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 835
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c5cb9a5a10f6c0800000000000000
+      internalID: -4111757483326454773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_223
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 855
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792248e4a19eda20800000000000000
+      internalID: 3089066531880053106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_224
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 839
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79c568df4162700800000000000000
+      internalID: 515122286493996989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_225
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 839
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0925cdd1c956cd0800000000000000
+      internalID: -2565472760653246239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_226
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 839
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12b9ba14cab46420800000000000000
+      internalID: 2622426234461205023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_227
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 871
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7962274ccd45d160800000000000000
+      internalID: 7049626331480484223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_228
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 839
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c471d9606a7320800000000000000
+      internalID: 2556461746088100447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_229
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 823
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce537e4b34513f0800000000000000
+      internalID: -930763303729894216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_230
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 863
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c97c63fc7fedb1b0800000000000000
+      internalID: -5639087838459037239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_231
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 807
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519aea7550c92bbc0800000000000000
+      internalID: -3768778391395849963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_232
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 839
+        width: 6
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f0faa44f2f2190800000000000000
+      internalID: -7985111642332401607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_233
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 863
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8758e7f6c630d5660800000000000000
+      internalID: 7376055528964654456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_234
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 863
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93cc7cd6c781e600800000000000000
+      internalID: 495826722159903645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_235
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 839
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6978c33f88eafa0800000000000000
+      internalID: -5787537892850559258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_236
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 855
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3df365c2c6f1b30800000000000000
+      internalID: 4260242710197162977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 73
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1df7a50785b540800000000000000
+      internalID: 5023069417764625262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_238
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 547
+        width: 74
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc2b9a3f2d745660800000000000000
+      internalID: 7373656131712527601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_239
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 787
+        width: 114
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf56004e6be32620800000000000000
+      internalID: 2748299056379223980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_240
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 787
+        width: 114
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4781406c6b2c700800000000000000
+      internalID: 559210265335854304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_241
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 691
+        width: 18
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f03c223907a610800000000000000
+      internalID: 1632283501039514889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_242
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 723
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3233ff99142f59590800000000000000
+      internalID: -7667956426957966557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_243
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 739
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddffb4398f7bca40800000000000000
+      internalID: 5389541606351175125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_244
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 739
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ceb9f1b8963b410800000000000000
+      internalID: 1491651947841449037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_245
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 731
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd444c7d4c3571c0800000000000000
+      internalID: -4506629548619313675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_246
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 739
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f386e0d2865b2c70800000000000000
+      internalID: 8947340204552127480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_247
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 739
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eb23ee23932fbb0800000000000000
+      internalID: -4903794153345597895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadeddb8ab077f5d0800000000000000
+      internalID: -3028828277870563921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_249
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 511
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8828ab23a24ff8950800000000000000
+      internalID: 6453645253122097800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_250
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 527
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09619a4bcfdd4cce0800000000000000
+      internalID: -1385738707890792816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_251
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 479
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab670d923b369f20800000000000000
+      internalID: 3428993254858124199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_252
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 499
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f67a098321fec60800000000000000
+      internalID: 7849512709684424565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_253
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 499
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead5a36bcf9596200800000000000000
+      internalID: 173769002554383790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_254
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 527
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404b8b1f41ba91e0800000000000000
+      internalID: -2190243315439681461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_255
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 531
+        width: 82
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19676b96f550e300800000000000000
+      internalID: 279317694554532126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_256
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 535
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2a907169195dea0800000000000000
+      internalID: -5848608467253091641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_ui_spritesheet@2x_preview_257
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 383
+        width: 90
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c885454eca66a6b50800000000000000
+      internalID: 6587190297733912716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retro_ui_spritesheet@2x_preview_0: 4621857413097621671
+      retro_ui_spritesheet@2x_preview_1: -942079373810382573
+      retro_ui_spritesheet@2x_preview_10: 4936078431027076074
+      retro_ui_spritesheet@2x_preview_100: -7413057445419371032
+      retro_ui_spritesheet@2x_preview_101: 7563301728148467342
+      retro_ui_spritesheet@2x_preview_102: 2008189540420312453
+      retro_ui_spritesheet@2x_preview_103: 3400336864253715834
+      retro_ui_spritesheet@2x_preview_104: 5693371470820555812
+      retro_ui_spritesheet@2x_preview_105: 716841166664481476
+      retro_ui_spritesheet@2x_preview_106: 5257668320415956407
+      retro_ui_spritesheet@2x_preview_107: -254176950862835136
+      retro_ui_spritesheet@2x_preview_108: -3790104186122844486
+      retro_ui_spritesheet@2x_preview_109: -4963721776266377175
+      retro_ui_spritesheet@2x_preview_11: 5922767218997828209
+      retro_ui_spritesheet@2x_preview_110: -3618233433957483827
+      retro_ui_spritesheet@2x_preview_111: -5053366027362676967
+      retro_ui_spritesheet@2x_preview_112: 1496840607601743298
+      retro_ui_spritesheet@2x_preview_113: 7951880671746482270
+      retro_ui_spritesheet@2x_preview_114: 3081437069456501889
+      retro_ui_spritesheet@2x_preview_115: -4191874740307381658
+      retro_ui_spritesheet@2x_preview_116: 5156036067058903351
+      retro_ui_spritesheet@2x_preview_117: -2482506387466471982
+      retro_ui_spritesheet@2x_preview_118: 1921353204252682565
+      retro_ui_spritesheet@2x_preview_119: 2008761837310189019
+      retro_ui_spritesheet@2x_preview_12: -4569136166360515393
+      retro_ui_spritesheet@2x_preview_120: 4460474718781659998
+      retro_ui_spritesheet@2x_preview_121: 2091721771012809242
+      retro_ui_spritesheet@2x_preview_122: -7356144191932781898
+      retro_ui_spritesheet@2x_preview_123: 3757358070970054388
+      retro_ui_spritesheet@2x_preview_124: 1529649597136129411
+      retro_ui_spritesheet@2x_preview_125: 8360134551681751745
+      retro_ui_spritesheet@2x_preview_126: 2394230353958393740
+      retro_ui_spritesheet@2x_preview_127: 9103444139424370263
+      retro_ui_spritesheet@2x_preview_128: 6014362737572993304
+      retro_ui_spritesheet@2x_preview_129: -6378967779263742721
+      retro_ui_spritesheet@2x_preview_13: -5973217571467440317
+      retro_ui_spritesheet@2x_preview_130: 2952750900503396875
+      retro_ui_spritesheet@2x_preview_131: -3894577192718373225
+      retro_ui_spritesheet@2x_preview_132: 3195159923532035384
+      retro_ui_spritesheet@2x_preview_133: -8918395241672149088
+      retro_ui_spritesheet@2x_preview_134: 2012024130227744438
+      retro_ui_spritesheet@2x_preview_135: -7199180154203649707
+      retro_ui_spritesheet@2x_preview_136: 4631619294135342216
+      retro_ui_spritesheet@2x_preview_137: 6099706316151590186
+      retro_ui_spritesheet@2x_preview_138: 1469929450411976324
+      retro_ui_spritesheet@2x_preview_139: -3590490891506185181
+      retro_ui_spritesheet@2x_preview_14: -6684426331726534223
+      retro_ui_spritesheet@2x_preview_140: 7766217715972019116
+      retro_ui_spritesheet@2x_preview_141: -9111634015633498709
+      retro_ui_spritesheet@2x_preview_142: -4496166935635152105
+      retro_ui_spritesheet@2x_preview_143: -5974347420496794968
+      retro_ui_spritesheet@2x_preview_144: 7951407422151258512
+      retro_ui_spritesheet@2x_preview_145: -7486451569118828303
+      retro_ui_spritesheet@2x_preview_146: 5533504071707199002
+      retro_ui_spritesheet@2x_preview_147: 8953310351775177702
+      retro_ui_spritesheet@2x_preview_148: -8317380701582749231
+      retro_ui_spritesheet@2x_preview_149: 4612325999184894866
+      retro_ui_spritesheet@2x_preview_15: -5299168112121582192
+      retro_ui_spritesheet@2x_preview_150: -1970411321624882765
+      retro_ui_spritesheet@2x_preview_151: -6641953571596145447
+      retro_ui_spritesheet@2x_preview_152: -8577982262305125454
+      retro_ui_spritesheet@2x_preview_153: -8707366550079295307
+      retro_ui_spritesheet@2x_preview_154: 1567017724756903012
+      retro_ui_spritesheet@2x_preview_155: 7120505753911710402
+      retro_ui_spritesheet@2x_preview_156: -937387518936564979
+      retro_ui_spritesheet@2x_preview_157: 354718573739731772
+      retro_ui_spritesheet@2x_preview_158: 8283605874947799949
+      retro_ui_spritesheet@2x_preview_159: 9141058255049685212
+      retro_ui_spritesheet@2x_preview_16: 3186810186472588112
+      retro_ui_spritesheet@2x_preview_160: -5940272500449843136
+      retro_ui_spritesheet@2x_preview_161: -1579290312864964318
+      retro_ui_spritesheet@2x_preview_162: 58895920534792505
+      retro_ui_spritesheet@2x_preview_163: 8234357359473600074
+      retro_ui_spritesheet@2x_preview_164: 574934336034023001
+      retro_ui_spritesheet@2x_preview_165: 6313341091716038304
+      retro_ui_spritesheet@2x_preview_166: 1234432604716983165
+      retro_ui_spritesheet@2x_preview_167: -8317609904625919744
+      retro_ui_spritesheet@2x_preview_168: 8830690722197244884
+      retro_ui_spritesheet@2x_preview_169: -3547009377832437446
+      retro_ui_spritesheet@2x_preview_17: 4765577640554420293
+      retro_ui_spritesheet@2x_preview_170: -1300697178667076795
+      retro_ui_spritesheet@2x_preview_171: 3150015812463838351
+      retro_ui_spritesheet@2x_preview_172: -3165954324462169761
+      retro_ui_spritesheet@2x_preview_173: 1337709035675535544
+      retro_ui_spritesheet@2x_preview_174: -397856643948781492
+      retro_ui_spritesheet@2x_preview_175: 8364284958763909400
+      retro_ui_spritesheet@2x_preview_176: -6380244483051918048
+      retro_ui_spritesheet@2x_preview_177: 6946394785705813248
+      retro_ui_spritesheet@2x_preview_178: -5620024301506935678
+      retro_ui_spritesheet@2x_preview_179: -1395111638447872988
+      retro_ui_spritesheet@2x_preview_18: -3781035669143233021
+      retro_ui_spritesheet@2x_preview_180: -2742568305569984032
+      retro_ui_spritesheet@2x_preview_181: 8384029783653306885
+      retro_ui_spritesheet@2x_preview_182: -396799014512926265
+      retro_ui_spritesheet@2x_preview_183: -5294932070496975215
+      retro_ui_spritesheet@2x_preview_184: -292667317275360496
+      retro_ui_spritesheet@2x_preview_185: -3162783731454179345
+      retro_ui_spritesheet@2x_preview_186: 7608362994129227363
+      retro_ui_spritesheet@2x_preview_187: -5765576474969907348
+      retro_ui_spritesheet@2x_preview_188: 6049167832720402274
+      retro_ui_spritesheet@2x_preview_189: 3228357674610415760
+      retro_ui_spritesheet@2x_preview_19: 2587584978722046742
+      retro_ui_spritesheet@2x_preview_190: -8628751724048838345
+      retro_ui_spritesheet@2x_preview_191: 691133331912463845
+      retro_ui_spritesheet@2x_preview_192: -231475217430396688
+      retro_ui_spritesheet@2x_preview_193: -3624216331973669775
+      retro_ui_spritesheet@2x_preview_194: -8301822483527499919
+      retro_ui_spritesheet@2x_preview_195: 328941782333309575
+      retro_ui_spritesheet@2x_preview_196: -9188801331876611963
+      retro_ui_spritesheet@2x_preview_197: 7160548131045172412
+      retro_ui_spritesheet@2x_preview_198: -4825699873049328152
+      retro_ui_spritesheet@2x_preview_199: -4055322978726715133
+      retro_ui_spritesheet@2x_preview_2: -7150497663923042326
+      retro_ui_spritesheet@2x_preview_20: 3680628829554926169
+      retro_ui_spritesheet@2x_preview_200: 7381759540606028390
+      retro_ui_spritesheet@2x_preview_201: -3436639775604325216
+      retro_ui_spritesheet@2x_preview_202: 7231957624480746315
+      retro_ui_spritesheet@2x_preview_203: 9063368370465657824
+      retro_ui_spritesheet@2x_preview_204: 6749094713108751478
+      retro_ui_spritesheet@2x_preview_205: 5853596982208971890
+      retro_ui_spritesheet@2x_preview_206: 1988624052490398101
+      retro_ui_spritesheet@2x_preview_207: -1998172223352176325
+      retro_ui_spritesheet@2x_preview_208: 3090061985101739601
+      retro_ui_spritesheet@2x_preview_209: 2835410855644687648
+      retro_ui_spritesheet@2x_preview_21: -2805816029221033119
+      retro_ui_spritesheet@2x_preview_210: 4783560936517791452
+      retro_ui_spritesheet@2x_preview_211: 4374802716674242646
+      retro_ui_spritesheet@2x_preview_212: -8681235352903937080
+      retro_ui_spritesheet@2x_preview_213: -7330408165914486528
+      retro_ui_spritesheet@2x_preview_214: -826994523389670447
+      retro_ui_spritesheet@2x_preview_215: -1198730813375867019
+      retro_ui_spritesheet@2x_preview_216: -8254656215094024731
+      retro_ui_spritesheet@2x_preview_217: -7193544699031502575
+      retro_ui_spritesheet@2x_preview_218: -5610216798192521627
+      retro_ui_spritesheet@2x_preview_219: -6463402554808305201
+      retro_ui_spritesheet@2x_preview_22: -3881325772879254346
+      retro_ui_spritesheet@2x_preview_220: -6200166331738886199
+      retro_ui_spritesheet@2x_preview_221: 8641581788508608937
+      retro_ui_spritesheet@2x_preview_222: -4111757483326454773
+      retro_ui_spritesheet@2x_preview_223: 3089066531880053106
+      retro_ui_spritesheet@2x_preview_224: 515122286493996989
+      retro_ui_spritesheet@2x_preview_225: -2565472760653246239
+      retro_ui_spritesheet@2x_preview_226: 2622426234461205023
+      retro_ui_spritesheet@2x_preview_227: 7049626331480484223
+      retro_ui_spritesheet@2x_preview_228: 2556461746088100447
+      retro_ui_spritesheet@2x_preview_229: -930763303729894216
+      retro_ui_spritesheet@2x_preview_23: -8964473155518191790
+      retro_ui_spritesheet@2x_preview_230: -5639087838459037239
+      retro_ui_spritesheet@2x_preview_231: -3768778391395849963
+      retro_ui_spritesheet@2x_preview_232: -7985111642332401607
+      retro_ui_spritesheet@2x_preview_233: 7376055528964654456
+      retro_ui_spritesheet@2x_preview_234: 495826722159903645
+      retro_ui_spritesheet@2x_preview_235: -5787537892850559258
+      retro_ui_spritesheet@2x_preview_236: 4260242710197162977
+      retro_ui_spritesheet@2x_preview_237: 5023069417764625262
+      retro_ui_spritesheet@2x_preview_238: 7373656131712527601
+      retro_ui_spritesheet@2x_preview_239: 2748299056379223980
+      retro_ui_spritesheet@2x_preview_24: -3175725705100380407
+      retro_ui_spritesheet@2x_preview_240: 559210265335854304
+      retro_ui_spritesheet@2x_preview_241: 1632283501039514889
+      retro_ui_spritesheet@2x_preview_242: -7667956426957966557
+      retro_ui_spritesheet@2x_preview_243: 5389541606351175125
+      retro_ui_spritesheet@2x_preview_244: 1491651947841449037
+      retro_ui_spritesheet@2x_preview_245: -4506629548619313675
+      retro_ui_spritesheet@2x_preview_246: 8947340204552127480
+      retro_ui_spritesheet@2x_preview_247: -4903794153345597895
+      retro_ui_spritesheet@2x_preview_248: -3028828277870563921
+      retro_ui_spritesheet@2x_preview_249: 6453645253122097800
+      retro_ui_spritesheet@2x_preview_25: -3416662568602704735
+      retro_ui_spritesheet@2x_preview_250: -1385738707890792816
+      retro_ui_spritesheet@2x_preview_251: 3428993254858124199
+      retro_ui_spritesheet@2x_preview_252: 7849512709684424565
+      retro_ui_spritesheet@2x_preview_253: 173769002554383790
+      retro_ui_spritesheet@2x_preview_254: -2190243315439681461
+      retro_ui_spritesheet@2x_preview_255: 279317694554532126
+      retro_ui_spritesheet@2x_preview_256: -5848608467253091641
+      retro_ui_spritesheet@2x_preview_257: 6587190297733912716
+      retro_ui_spritesheet@2x_preview_26: 4476672670242399141
+      retro_ui_spritesheet@2x_preview_27: 384834992246439129
+      retro_ui_spritesheet@2x_preview_28: -5133366945061503495
+      retro_ui_spritesheet@2x_preview_29: 9156987897456402943
+      retro_ui_spritesheet@2x_preview_3: -9012598626300818135
+      retro_ui_spritesheet@2x_preview_30: -4339217807752403222
+      retro_ui_spritesheet@2x_preview_31: 1124331645687601651
+      retro_ui_spritesheet@2x_preview_32: -8077316201558016695
+      retro_ui_spritesheet@2x_preview_33: 6589591448564313991
+      retro_ui_spritesheet@2x_preview_34: 4905550553996465720
+      retro_ui_spritesheet@2x_preview_35: -3183741328817401481
+      retro_ui_spritesheet@2x_preview_36: -564155179468951844
+      retro_ui_spritesheet@2x_preview_37: 5818418029842090348
+      retro_ui_spritesheet@2x_preview_38: -8518422375433844030
+      retro_ui_spritesheet@2x_preview_39: 7357283802675549785
+      retro_ui_spritesheet@2x_preview_4: -6089534488115949732
+      retro_ui_spritesheet@2x_preview_40: 8562569659716459376
+      retro_ui_spritesheet@2x_preview_41: -6419039053840137724
+      retro_ui_spritesheet@2x_preview_42: -6948103610322418475
+      retro_ui_spritesheet@2x_preview_43: 183098541725549108
+      retro_ui_spritesheet@2x_preview_44: -8503966812106701788
+      retro_ui_spritesheet@2x_preview_45: -4462638172110933920
+      retro_ui_spritesheet@2x_preview_46: -4368171222021412712
+      retro_ui_spritesheet@2x_preview_47: -8739335887932323954
+      retro_ui_spritesheet@2x_preview_48: 9159279540320989565
+      retro_ui_spritesheet@2x_preview_49: -6244775493873413708
+      retro_ui_spritesheet@2x_preview_5: 5158403607010187743
+      retro_ui_spritesheet@2x_preview_50: -8691008271069843108
+      retro_ui_spritesheet@2x_preview_51: 1001052088174043666
+      retro_ui_spritesheet@2x_preview_52: 366851457445833230
+      retro_ui_spritesheet@2x_preview_53: 1841904103450112813
+      retro_ui_spritesheet@2x_preview_54: -7342967074878016094
+      retro_ui_spritesheet@2x_preview_55: -2690280004423009827
+      retro_ui_spritesheet@2x_preview_56: -5291403411771349070
+      retro_ui_spritesheet@2x_preview_57: 6936243144227567918
+      retro_ui_spritesheet@2x_preview_58: 8245742576162599561
+      retro_ui_spritesheet@2x_preview_59: 2318684097360487932
+      retro_ui_spritesheet@2x_preview_6: -4060308218987093670
+      retro_ui_spritesheet@2x_preview_60: 6817749396001723847
+      retro_ui_spritesheet@2x_preview_61: -8589224322906895577
+      retro_ui_spritesheet@2x_preview_62: 5951391320049072100
+      retro_ui_spritesheet@2x_preview_63: -4612872033169162225
+      retro_ui_spritesheet@2x_preview_64: 5331164964832591530
+      retro_ui_spritesheet@2x_preview_65: 6242339871944758043
+      retro_ui_spritesheet@2x_preview_66: -3620303636259190223
+      retro_ui_spritesheet@2x_preview_67: 5485032596278079179
+      retro_ui_spritesheet@2x_preview_68: 79329169962689968
+      retro_ui_spritesheet@2x_preview_69: 4719240522219218512
+      retro_ui_spritesheet@2x_preview_7: -5949164267269009723
+      retro_ui_spritesheet@2x_preview_70: 7763419046203526582
+      retro_ui_spritesheet@2x_preview_71: 117062742771382481
+      retro_ui_spritesheet@2x_preview_72: 6871068392090947576
+      retro_ui_spritesheet@2x_preview_73: -2653593437172740608
+      retro_ui_spritesheet@2x_preview_74: 4439824484764461482
+      retro_ui_spritesheet@2x_preview_75: -8358365671726096552
+      retro_ui_spritesheet@2x_preview_76: 1359168335294097219
+      retro_ui_spritesheet@2x_preview_77: -7257583930574767233
+      retro_ui_spritesheet@2x_preview_78: 8832294219507359136
+      retro_ui_spritesheet@2x_preview_79: 8987338937842068630
+      retro_ui_spritesheet@2x_preview_8: 8185335186010853439
+      retro_ui_spritesheet@2x_preview_80: -606822566990548684
+      retro_ui_spritesheet@2x_preview_81: 1522413297593079864
+      retro_ui_spritesheet@2x_preview_82: 1502684947472043127
+      retro_ui_spritesheet@2x_preview_83: -9213320334270969324
+      retro_ui_spritesheet@2x_preview_84: -8090626380075232074
+      retro_ui_spritesheet@2x_preview_85: -5062051232080076101
+      retro_ui_spritesheet@2x_preview_86: 2100427452549038728
+      retro_ui_spritesheet@2x_preview_87: -1191699842714633021
+      retro_ui_spritesheet@2x_preview_88: 8117165489398801620
+      retro_ui_spritesheet@2x_preview_89: 2674552343611477498
+      retro_ui_spritesheet@2x_preview_9: -423978425001147028
+      retro_ui_spritesheet@2x_preview_90: -3884465958816079701
+      retro_ui_spritesheet@2x_preview_91: 3495589488477490673
+      retro_ui_spritesheet@2x_preview_92: -2024943625958705421
+      retro_ui_spritesheet@2x_preview_93: -3868108872110225992
+      retro_ui_spritesheet@2x_preview_94: 4795843583312444782
+      retro_ui_spritesheet@2x_preview_95: 5952838360565628436
+      retro_ui_spritesheet@2x_preview_96: 1625567394441600610
+      retro_ui_spritesheet@2x_preview_97: 8131619234456766757
+      retro_ui_spritesheet@2x_preview_98: -4869556231326384750
+      retro_ui_spritesheet@2x_preview_99: 6866207529051774112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

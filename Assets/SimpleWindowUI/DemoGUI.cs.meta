@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c892f16cde30cd04d972c9cc1118257f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/DemoGUI.cs
+  uploadId: 86155

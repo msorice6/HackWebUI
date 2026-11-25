@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64470731fa7148c4181c4163a6a874f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/Scripts/ResizableUI.cs
+  uploadId: 86155

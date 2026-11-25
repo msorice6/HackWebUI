@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 530a9b131e667064eac77deda567019e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/readme.txt
+  uploadId: 86155

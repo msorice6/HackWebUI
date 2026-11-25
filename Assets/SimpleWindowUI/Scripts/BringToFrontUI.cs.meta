@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f12ab84db6485fa489f56cee2cb1ad99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/Scripts/BringToFrontUI.cs
+  uploadId: 86155

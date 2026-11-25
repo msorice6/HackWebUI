@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8c0292b585b72448bc3e205244d811a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/Prefabs/SimpleWindow.prefab
+  uploadId: 86155

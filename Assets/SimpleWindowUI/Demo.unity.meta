@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e159235a5ef33744b6f85b0be2813c2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48076
+  packageName: SimpleWindowUI
+  packageVersion: 1.0
+  assetPath: Assets/SimpleWindowUI/Demo.unity
+  uploadId: 86155
