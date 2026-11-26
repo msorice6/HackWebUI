@@ -28,6 +28,15 @@ public class AddZone : MonoBehaviour
             {
                 Transform child = activeZone.GetChild(i);
                 imageCopy[i] = Instantiate(child.gameObject, targetParent, false);
+
+                // keep the same size and the same offset from the window centre that the element has in web_home,
+                // whatever anchors it uses (fixed or stretch), so the copy sits in the same place inside hack_bank
+                RectTransform srcRect = child as RectTransform;
+                RectTransform copyRect = imageCopy[i].GetComponent<RectTransform>();
+                Vector2 size = srcRect.rect.size;
+                copyRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, size.x);
+                copyRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, size.y);
+
                 
                 imageCopy[i].GetComponent<Image>().color = Color.white;
                 
