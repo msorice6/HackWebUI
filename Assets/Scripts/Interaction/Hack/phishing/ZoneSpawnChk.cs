@@ -45,7 +45,6 @@ public class ZoneSpawnChk : MonoBehaviour
         }
     }
 
-
     public void printSpawnZones() //  vibecoded AI for testing
     {
         if (spawnZones == null || spawnZones.Length == 0)
@@ -62,6 +61,19 @@ public class ZoneSpawnChk : MonoBehaviour
             }
             Debug.Log(allZones);
         }
+    }
+
+    private int getNewSpawnZoneLenght()
+    {
+        int c=0;
+        for (int i = 0; i < spawnZones.Length; i++)
+        {
+            if (spawnZones[i] == null)
+                continue;
+
+            c++;
+        }
+        return c;
 
     }
 
@@ -70,14 +82,17 @@ public class ZoneSpawnChk : MonoBehaviour
         if (spawnZones == null || spawnZones.Length == 0)
             return false;
 
-        foreach (Transform zone in spawnZones)
+        int lenght = getNewSpawnZoneLenght(); // i need to check if there are elements in spawnZone[] wich are null. 
+
+
+        for (int i = 0; i < lenght; i++)
         {
-            if (zone == null || zone.childCount == 0)
+            if (spawnZones[i] == null || spawnZones[i].childCount == 0)
                 return false;
         }
+        
 
         return true;
     }
-
 
 }

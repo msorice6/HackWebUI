@@ -20,13 +20,18 @@ public class AddZone : MonoBehaviour
             int childCount = activeZone.childCount;
             GameObject[] imageCopy = new GameObject[childCount];
 
-            
             ZoneSpawnChk zoneSpawnCheck = scriptZoneSpawnChk.GetComponentInChildren<ZoneSpawnChk>(true);
             zoneSpawnCheck.spawnZones = new Transform[childCount];
 
             for (int i = 0; i < childCount; i++)
             {
                 Transform child = activeZone.GetChild(i);
+
+                if (child.gameObject.name == "notTouched")
+                {
+                    continue;
+                }
+
                 imageCopy[i] = Instantiate(child.gameObject, targetParent, false);
 
                 // keep the same size and the same offset from the window centre that the element has in web_home,
@@ -37,7 +42,6 @@ public class AddZone : MonoBehaviour
                 copyRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, size.x);
                 copyRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, size.y);
 
-
                 imageCopy[i].GetComponent<Image>().color = Color.white;
 
                 // remove every script DraggableZoneItemCpy into the ClonedObject
@@ -46,7 +50,6 @@ public class AddZone : MonoBehaviour
                     Destroy(script);
                 }
 
-
                 // remove the uploaded source image uploaded into the component Image
                 Image img = imageCopy[i].GetComponent<Image>();
                 if (img != null)
@@ -54,7 +57,7 @@ public class AddZone : MonoBehaviour
                     img.sprite = null;
                     img.color = Color.white;
                 }
-
+                
                 imageCopy[i].SetActive(true); 
 
                 // get DraggableZoneItemCpy from child.gameObject and assign imageCopy[i] to zone_1
@@ -65,12 +68,10 @@ public class AddZone : MonoBehaviour
                 }
 
                 // pass the parameter of the cloned element to spawnZones in ZoneSpawnChk ( when you press the button checks, if zone_1 is filled(every element in zone_1 has a children) then it sends an email
-                
                 if (zoneSpawnCheck != null)
                 {
                     zoneSpawnCheck.spawnZones[i] = imageCopy[i].transform;
                 }
-
             }
         }
     }
