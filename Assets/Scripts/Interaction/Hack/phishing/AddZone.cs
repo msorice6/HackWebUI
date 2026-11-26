@@ -37,15 +37,24 @@ public class AddZone : MonoBehaviour
                 copyRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, size.x);
                 copyRect.SetSizeWithCurrentAnchors(RectTransform.Axis.Vertical, size.y);
 
-                
+
                 imageCopy[i].GetComponent<Image>().color = Color.white;
-                
-                // remove the script DraggableZoneItemCpy into the ClonedObject
+
+                // remove every script DraggableZoneItemCpy into the ClonedObject
                 foreach (var script in imageCopy[i].GetComponentsInChildren<DraggableZoneItemCpy>(true))
                 {
                     Destroy(script);
                 }
-                 
+
+
+                // remove the uploaded source image uploaded into the component Image
+                Image img = imageCopy[i].GetComponent<Image>();
+                if (img != null)
+                {
+                    img.sprite = null;
+                    img.color = Color.white;
+                }
+
                 imageCopy[i].SetActive(true); 
 
                 // get DraggableZoneItemCpy from child.gameObject and assign imageCopy[i] to zone_1
