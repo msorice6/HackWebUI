@@ -53,9 +53,11 @@ public class DraggableZoneItemCpy : MonoBehaviour, IBeginDragHandler, IDragHandl
             // Move the copy to the visual center of zone_1
             windowCopy.position = allWindow.localPosition = zoneRect.TransformPoint(zoneRect.rect.center);
 
-            allWindow.localPosition = initialPosition;
+            //allWindow.localPosition = initialPosition;
+            allWindow.anchoredPosition = initialPosition;
 
-        }else
+        }
+        else
         {
             // Return the item to its starting position
             //            allWindow.anchoredPosition = initialPosition;
@@ -64,7 +66,8 @@ public class DraggableZoneItemCpy : MonoBehaviour, IBeginDragHandler, IDragHandl
             //   allWindow.SetParent(zone_spawn.transform, true);
 
             //   allWindow.anchoredPosition = initialPosition;
-            allWindow.localPosition = initialPosition;
+            //allWindow.localPosition = initialPosition;
+            allWindow.anchoredPosition = initialPosition;
 
 
 
