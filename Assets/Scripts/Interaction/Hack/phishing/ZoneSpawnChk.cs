@@ -5,8 +5,14 @@ public class ZoneSpawnChk : MonoBehaviour
 
     public Transform[] spawnZones;
     [SerializeField] private Transform mail_cellsContainer_no;
+    [SerializeField] private Transform mailContent_cellsContainer_no;
+
     [SerializeField] private Transform mail_cellsContainer_yes;
+    [SerializeField] private Transform mailContent_cellsContainer_yes;
+
     [SerializeField] private Transform mail_cellsContainer_maybe;
+    [SerializeField] private Transform mailContent_cellsContainer_maybe;
+
     public void onButtonPress()
     {
 
@@ -16,11 +22,15 @@ public class ZoneSpawnChk : MonoBehaviour
             int randomSeed = UnityEngine.Random.Range(1, 4); // Returns 1, 2, or 3
             GameObject imageCopy = null;
 
+            imageCopy = Instantiate(mail_cellsContainer_maybe.gameObject, mail_cellsContainer_maybe.transform.parent, false);
+
+            /*
             switch (randomSeed)
             {
                 case 1:
                     imageCopy = Instantiate(mail_cellsContainer_maybe.gameObject, mail_cellsContainer_maybe.transform.parent, false);
                     break;
+              
                 case 2:
                     imageCopy = Instantiate(mail_cellsContainer_yes.gameObject, mail_cellsContainer_yes.transform.parent, false);
                     break;
@@ -28,7 +38,7 @@ public class ZoneSpawnChk : MonoBehaviour
                     imageCopy = Instantiate(mail_cellsContainer_no.gameObject, mail_cellsContainer_no.transform.parent, false);
                     break;
             }
-
+            */
             imageCopy.SetActive(true);
             if (spawnZones != null) {
                 Debug.Log("destroy!");
