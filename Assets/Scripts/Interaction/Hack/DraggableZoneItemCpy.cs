@@ -55,6 +55,10 @@ public class DraggableZoneItemCpy : MonoBehaviour, IBeginDragHandler, IDragHandl
 
             //allWindow.localPosition = initialPosition;
             allWindow.anchoredPosition = initialPosition;
+            foreach (var script in windowCopy.GetComponentsInChildren<DraggableZoneItemCpy>(true))
+            {
+                Destroy(script);
+            }
 
         }
         else
